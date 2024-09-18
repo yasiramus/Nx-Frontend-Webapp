@@ -1,0 +1,9 @@
+{
+  "name": "car-showcase-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/car-showcase-e2e/src",
+  "tags": [],
+  "implicitDependencies": ["car-showcase"],
+  "// targets": "to see all targets run: nx show project car-showcase-e2e --web",
+  "targets": {}
+}
